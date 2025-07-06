@@ -203,10 +203,6 @@ The system generates comprehensive analytics including:
 └── dynamic_parking_pricing.ipynb
 ```
 
-## 🤝 Contributing
-
-This project is part of the Summer Analytics 2025 Capstone Project. Feel free to fork, modify, and enhance the codebase for your specific use cases.
-
 ---
 
 *Developed as part of Summer Analytics 2025 Capstone Project*
